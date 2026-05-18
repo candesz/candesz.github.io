@@ -17,7 +17,7 @@ Special Assignments taken
 * Biological Physics
 * Statistical Methods for Experimental Physics
 * Non-linear dynamics
-* New Advances in Thermodynamics and Statistical Physics
+* New Advances in Thermodynamics and Statistical Physics [Information processing in biochemical networks (spanshi(](/files/Final_Termo_avanzada_Szischik.pdf)
 * New Mathematical and Computational Methods for Science and Engineering
 * Dynamic Systems and Artificial Intelligence Applied to Data Modeling
 * Complex Networks
